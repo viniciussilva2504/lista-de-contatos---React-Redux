@@ -18,4 +18,5 @@ export const Mensagem = styled.p`
   background-color: ${variaveis.cinzaClaro};
   border-radius: 8px;
   border-left: 4px solid ${variaveis.azulPrimario};
+  border-right: 4px solid ${variaveis.azulPrimario};
 `
